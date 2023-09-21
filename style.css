@@ -25,3 +25,10 @@ p{
 span{
   text-decoration: underline;
 }
+.ingredients{
+  margin:30px 50px;
+  text-align: left;
+}
+li{
+  padding: 5px;
+}
