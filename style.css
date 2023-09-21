@@ -3,13 +3,18 @@
   padding: 0;
   box-sizing: border-box;
 }
+body{background-color: aquamarine;}
 
 .container {
   text-align: center;
 }
+a{
+  color:rgb(10, 11, 105)
+}
 
 .container h1 {
   margin: 20px 0;
+  color:peru
 }
 .img {
   margin-top: 20px;
@@ -17,6 +22,7 @@
 p{
   width:70%;
   margin:20px auto;
+  color: rgb(162, 6, 63);
 
 }
 .span{
@@ -31,4 +37,10 @@ span{
 }
 li{
   padding: 5px;
+ 
+}
+h3{
+  border:3px dotted crimson;
+  padding:5px;
+  border-radius: 5px;
 }
